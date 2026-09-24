@@ -1,4 +1,4 @@
-Hello! My name is Ivan Zimmerman and I'm a high school senior applying to CS undergraduate programs for the Fall 2026 semester. I'm interested in programming languages and operating systems, and I usually program in Rust or Python. Most of the projects I've made are local, but I've uploaded some here as well.
+Hello! My name is Ivan Zimmerman and I'm a Computer Science major at UCLA Samueli. I'm interested in programming languages and operating systems, and I usually program in Rust or Python. Most of the projects I've made are local, but I've uploaded some here as well.
 
 ### Repositories
 
